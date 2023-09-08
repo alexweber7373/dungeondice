@@ -1,2 +1,2 @@
 # dungeondice
-A RNG dungeon generator.
+An RNG dungeon generator.
